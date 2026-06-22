@@ -124,12 +124,6 @@ show ip dhcp binding
 
 <img width="626" height="585" alt="image" src="https://github.com/user-attachments/assets/eb8782f1-b449-4e82-81e1-c9b7a83f662a" />
 
-
-**Screenshot Required**
-
-- DHCP pools
-- Assigned IP addresses
-
 ---
 
 ## DHCP Relay Verification
@@ -144,10 +138,6 @@ show run interface vlan10
 
 <img width="330" height="603" alt="image" src="https://github.com/user-attachments/assets/ffd6d376-ce2d-42c2-b7f6-defc2ed59759" />
 
-
-**Screenshot Required**
-
-- ip helper-address on VLAN interfaces
 
 ---
 
@@ -165,11 +155,6 @@ show ip ospf neighbor
 <img width="685" height="81" alt="image" src="https://github.com/user-attachments/assets/1d75c948-b004-48fd-b1e1-a361a1a04b25" />
 
 
-
-**Screenshot Required**
-
-- Neighbor state FULL
-
 ---
 
 ## Routing Table Verification
@@ -186,12 +171,6 @@ show ip route
 <img width="630" height="376" alt="image" src="https://github.com/user-attachments/assets/cafd0902-5a36-4ff9-ab25-ecfab30d9129" />
 
 
-
-**Screenshot Required**
-
-- OSPF routes
-- Connected routes
-
 ---
 
 ## NAT Verification
@@ -205,12 +184,8 @@ show ip nat translations
 ### Result
 
 <img width="617" height="330" alt="image" src="https://github.com/user-attachments/assets/01fb172e-a361-4d96-8ba1-91432dbd2c45" />
+<img width="504" height="107" alt="image" src="https://github.com/user-attachments/assets/37f22b70-1223-4a4c-add1-8fe5e15660f0" />
 
-
-**Screenshot Required**
-
-- Inside local addresses
-- Inside global addresses
 
 ---
 
@@ -227,7 +202,8 @@ PC1 → 8.8.8.8
 
 ### Result
 
-![Ping Tests](Verification/ping-tests.png)
+<img width="489" height="469" alt="image" src="https://github.com/user-attachments/assets/8d0ae658-abac-44c8-b81e-198f78032da6" />
+
 
 ---
 
@@ -244,6 +220,11 @@ IT → Finance
 HR → Finance
 IT → HR
 ```
+<img width="487" height="105" alt="image" src="https://github.com/user-attachments/assets/922dccc4-2571-4c1a-b80d-1b44359d6787" />
+<img width="490" height="112" alt="image" src="https://github.com/user-attachments/assets/33ec6798-f4ae-4e30-9f29-f26f707429eb" />
+<img width="493" height="108" alt="image" src="https://github.com/user-attachments/assets/b26150d7-5b10-4740-bc1c-f5df85b3e773" />
+
+
 
 ### Denied
 
@@ -251,9 +232,8 @@ IT → HR
 Guest → Finance
 ```
 
-### Result
+<img width="906" height="113" alt="image" src="https://github.com/user-attachments/assets/b8a95c59-db04-48cb-9e04-aa7225e338e4" />
 
-![ACL Verification](Verification/acl-tests.png)
 
 ---
 
