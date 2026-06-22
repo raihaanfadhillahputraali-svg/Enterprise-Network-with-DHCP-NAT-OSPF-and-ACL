@@ -28,7 +28,8 @@ This project demonstrates:
 
 # Topology
 
-![Topology](Topology/topology.png)
+<img width="864" height="782" alt="image" src="https://github.com/user-attachments/assets/56b6b2b6-6739-4094-afb4-a41c5cda25a0" />
+
 
 ---
 
@@ -121,7 +122,8 @@ show ip dhcp binding
 
 ### Result
 
-![DHCP Verification](Verification/dhcp-bindings.png)
+<img width="626" height="585" alt="image" src="https://github.com/user-attachments/assets/eb8782f1-b449-4e82-81e1-c9b7a83f662a" />
+
 
 **Screenshot Required**
 
@@ -140,7 +142,8 @@ show run interface vlan10
 
 ### Result
 
-![IP Helper Address](Verification/ip-helper-address.png)
+<img width="330" height="603" alt="image" src="https://github.com/user-attachments/assets/ffd6d376-ce2d-42c2-b7f6-defc2ed59759" />
+
 
 **Screenshot Required**
 
@@ -158,7 +161,10 @@ show ip ospf neighbor
 
 ### Result
 
-![OSPF Neighbors](Verification/ospf-neighbor.png)
+<img width="682" height="77" alt="image" src="https://github.com/user-attachments/assets/ad13fefb-9c5e-40e1-8b13-c4d3c9f3f059" />
+<img width="685" height="81" alt="image" src="https://github.com/user-attachments/assets/1d75c948-b004-48fd-b1e1-a361a1a04b25" />
+
+
 
 **Screenshot Required**
 
@@ -176,7 +182,10 @@ show ip route
 
 ### Result
 
-![Routing Table](Verification/routing-table.png)
+<img width="639" height="376" alt="image" src="https://github.com/user-attachments/assets/90ce399f-780a-4d30-849a-63bf0883eca2" />
+<img width="630" height="376" alt="image" src="https://github.com/user-attachments/assets/cafd0902-5a36-4ff9-ab25-ecfab30d9129" />
+
+
 
 **Screenshot Required**
 
@@ -195,7 +204,8 @@ show ip nat translations
 
 ### Result
 
-![NAT Translation](Verification/nat-translations.png)
+<img width="617" height="330" alt="image" src="https://github.com/user-attachments/assets/01fb172e-a361-4d96-8ba1-91432dbd2c45" />
+
 
 **Screenshot Required**
 
